@@ -8,7 +8,7 @@
 I am a first-year Computer Science and Engineering student passionate about technology, programming, and problem-solving.  
 I love exploring **C programming**, learning new concepts, and improving myself as a developer every day.  
 
-- 🧠 Learning: C, Python, Git & GitHub  
+- 🧠 Learning: C, Python,HTML, Git & GitHub  
 - 🎮 Hobbies: Playing **Badminton** & **Chess**  
 - 💡 Belief: Strongly believe in myself and continuous learning  
 - 🎯 Goals:  
@@ -19,7 +19,7 @@ I love exploring **C programming**, learning new concepts, and improving myself 
 
 ## 🛠️ Tech Stack  
 #### Languages:
-- C, Python (Learning), HTML/CSS (Basics)
+- C/C++, Python (Learning), HTML/CSS (Basics)
 
 #### Tools:
 - Git, GitHub, VS Code  
@@ -56,8 +56,8 @@ Here are some of the projects I’m working on / planning to build:
 ---
 
 ## 🤝 Connect With Me  
-📧 Email: *your-email@example.com*  
-🌐 LinkedIn: *your-linkedin-profile*  
+📧 Email: *mahendra19dada@gmail.com*  
+🌐 LinkedIn: *https://www.linkedin.com/in/mahendra-patel-833b9737b?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BkJ0DBCn1RLWSPWzcVn4UVA%3D%3D*  
 
 ---
 
