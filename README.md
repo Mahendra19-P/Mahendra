@@ -40,6 +40,7 @@ Here are some of the projects I’m working on / planning to build:
 - 🔸 Number Guessing Game  
 - 🔸 Student Record Management System  
 - 🔸 Mini Attendance System  
+- 🔸 Weather app 
 
 ### 🔹 Web Projects (Upcoming)  
 - 🔸 Personal Portfolio Website  
