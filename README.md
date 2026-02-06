@@ -58,7 +58,7 @@ Here are some of the projects I’m working on / planning to build:
 
 ## 🤝 Connect With Me  
 📧 Email: *mahendra19dada@gmail.com*  
-🌐 LinkedIn: *https://www.linkedin.com/in/mahendra-patel-833b9737b?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BkJ0DBCn1RLWSPWzcVn4UVA%3D%3D*  
+🌐 LinkedIn: *https://www.linkedin.com/in/mahendra-patel-8b4a81399?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app*  
 
 ---
 
